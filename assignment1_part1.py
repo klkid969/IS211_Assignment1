@@ -1,5 +1,7 @@
 # assignment1_part1.py
 
+print("Starting the script...")
+
 
 def list_divide(numbers, divide=2):
     count = 0
